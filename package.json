@@ -10,6 +10,9 @@
   },
   "author": "",
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=4.3.0"
+  },
   "devDependencies": {
     "babel-cli": "~6.7.5",
     "babel-core": "~6.7.6",
